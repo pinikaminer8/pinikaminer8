@@ -21,5 +21,5 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="node" width="40" height="40"/> </a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="URL_TO_REACT_ICON" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
 </p>
