@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pini Kaminer</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 
-- 🌱 I’m currently learning at **Mego**
+- 🌱 I’m currently working at **Nice**
 
 - 📫 How to reach me **pinikaminer8@gmail.com**
 
