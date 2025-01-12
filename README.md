@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pini Kaminer</h1>
-<h3 align="center">A passionate developer from Israel</h3>
+<h3 align="center">A passionate software engineere from Israel</h3>
 
 - 🌱 I’m currently working at **Nice**
 
